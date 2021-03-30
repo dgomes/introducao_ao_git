@@ -1,3 +1,0 @@
-Hola Mundo
-
-Hello World
