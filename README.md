@@ -2,10 +2,4 @@
 
 Hola Mundo
 
-Olá Mundo
-
-Hello Portugal 
-
-Ciao Mundo
-
-Bonjour
+Olá Mundo como estamos ?
